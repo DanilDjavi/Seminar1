@@ -1,0 +1,15 @@
+C:\Users\djavi\Desktop\C#\Seminar 1\HomeWork\Seminar_1\Task_001\bin\Debug\net6.0\Task_001.exe
+C:\Users\djavi\Desktop\C#\Seminar 1\HomeWork\Seminar_1\Task_001\bin\Debug\net6.0\Task_001.deps.json
+C:\Users\djavi\Desktop\C#\Seminar 1\HomeWork\Seminar_1\Task_001\bin\Debug\net6.0\Task_001.runtimeconfig.json
+C:\Users\djavi\Desktop\C#\Seminar 1\HomeWork\Seminar_1\Task_001\bin\Debug\net6.0\Task_001.dll
+C:\Users\djavi\Desktop\C#\Seminar 1\HomeWork\Seminar_1\Task_001\bin\Debug\net6.0\Task_001.pdb
+C:\Users\djavi\Desktop\C#\Seminar 1\HomeWork\Seminar_1\Task_001\obj\Debug\net6.0\Task_001.csproj.AssemblyReference.cache
+C:\Users\djavi\Desktop\C#\Seminar 1\HomeWork\Seminar_1\Task_001\obj\Debug\net6.0\Task_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djavi\Desktop\C#\Seminar 1\HomeWork\Seminar_1\Task_001\obj\Debug\net6.0\Task_001.AssemblyInfoInputs.cache
+C:\Users\djavi\Desktop\C#\Seminar 1\HomeWork\Seminar_1\Task_001\obj\Debug\net6.0\Task_001.AssemblyInfo.cs
+C:\Users\djavi\Desktop\C#\Seminar 1\HomeWork\Seminar_1\Task_001\obj\Debug\net6.0\Task_001.csproj.CoreCompileInputs.cache
+C:\Users\djavi\Desktop\C#\Seminar 1\HomeWork\Seminar_1\Task_001\obj\Debug\net6.0\Task_001.dll
+C:\Users\djavi\Desktop\C#\Seminar 1\HomeWork\Seminar_1\Task_001\obj\Debug\net6.0\refint\Task_001.dll
+C:\Users\djavi\Desktop\C#\Seminar 1\HomeWork\Seminar_1\Task_001\obj\Debug\net6.0\Task_001.pdb
+C:\Users\djavi\Desktop\C#\Seminar 1\HomeWork\Seminar_1\Task_001\obj\Debug\net6.0\Task_001.genruntimeconfig.cache
+C:\Users\djavi\Desktop\C#\Seminar 1\HomeWork\Seminar_1\Task_001\obj\Debug\net6.0\ref\Task_001.dll
